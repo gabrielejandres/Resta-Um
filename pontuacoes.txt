@@ -1,0 +1,4 @@
+Julia 2.96 1
+Joao 3.15 3
+Ana 2.74 2
+Joana 1.20 1 
